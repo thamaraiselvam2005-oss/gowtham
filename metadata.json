@@ -1,0 +1,8 @@
+{
+  "name": "YatraVista - India & Global Travel Discovery & Itinerary Hub",
+  "description": "Discover tourist destinations across Kerala, India and the world. Explore curated attractions, verified hotels and room pricing, authentic cuisine, personalized travel recommendations, and interactive day-by-day trip itineraries.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
